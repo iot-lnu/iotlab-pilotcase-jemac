@@ -53,3 +53,18 @@ The concept of a soundproof pod comes with various potential areas of measuremen
    - Regulates internal control systems for a consistent indoor climate.
    - Helps swiftly detect and adapt to outdoor climate changes.
    - Contributes in energy optimization while minimizing wastage.
+
+
+# Hardware suggestions
+
+| Value to be Measured | Suggested Sensor | Peripheral |
+|----------------------|------------------|------------|
+| Internal Temperature |                  |            |
+| Humidity             |                  |            |
+| Air Quality          |                  |            |
+| Motion               |                  |            |
+| Internal Sound       |                  |            |
+| Light Intensity      |                  |            |
+| Fire Detection       |                  |            |
+| External Sound       |                  |            |
+| External Temperature |                  |            |
