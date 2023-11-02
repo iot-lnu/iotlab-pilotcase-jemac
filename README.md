@@ -31,7 +31,7 @@ The concept of a soundproof pod comes with various potential areas of measuremen
    - Integrates with emergency systems for improved safety.
 
 - Sound Levels
-   - Ensures the podcast remains a sound-free zone for focused tasks.
+   - Ensures the pod remains a sound-free zone for focused tasks.
    - Detects anomalies, serving as an alert system for potential equipment issues. 
 
 - Light Intensity
