@@ -111,12 +111,12 @@ There are air quality sensors available that offer a combination of ways to meas
 
 
 
-|Sensor|Manufacturer|Technology| Range of detection |Sensitivity|Supply Voltage|
-|-|-|-|-|-|-|
-|4871|Adafruit Industries LLC|PIR|7 m|Adjustable|3 - 12|
-|5578|Adafruit Industries LLC |PIR|5 m|Adjustable|2.2 - 3.7|
-|D6T|Omron|Thermal|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
-|ZRD09|Winsen|PIR|4 - 8|Adjustable|5 - 20|
+|Sensor|Technology| Range of detection |Sensitivity|Supply Voltage|
+|-|-|-|-|-|
+|[Adafruit - 4871](https://www.digikey.se/sv/products/detail/adafruit-industries-llc/4871/13922055?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMAX%20Shopping_Product_High%20Performers&utm_term=&productid=13922055&utm_content=&utm_id=go_cmp-19549529751_adg-_ad-__dev-c_ext-_prd-13922055_sig-Cj0KCQiAr8eqBhD3ARIsAIe-buO9Et8qW-ORiGeWR51faV9cbxzlUNJU7_sIyuduhqKkcgEZOPw_wikaAhTKEALw_wcB&gad_source=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buO9Et8qW-ORiGeWR51faV9cbxzlUNJU7_sIyuduhqKkcgEZOPw_wikaAhTKEALw_wcB)|PIR|7 m|Adjustable|3 - 12|
+|[Adafruit - 5578](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5006/5578_Web.pdf)|PIR|5 m|Adjustable|2.2 - 3.7|
+|[Omron - D6T](https://docs.rs-online.com/1ec1/0900766b8165dbfb.pdf)|Thermal|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
+
 
 
 
