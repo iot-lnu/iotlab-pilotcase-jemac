@@ -11,7 +11,7 @@ Jemac Sweden AB is a company based in Kalmar, Sweden. They provide services with
    * [Temperature and humidity](#temperature-and-humidity)
    * [Air quality](#air-quality)
    * [Motion](#motion)
-   
+
 # Values to measure
 The concept of a soundproof pod comes with various potential areas of measurement, both internally and externally. These values could be temperature, humidity, multi-faceted air quality, motion, sound, light and fire detection from within, alongside external temperature and sound. All such measurements pave the way to fully understand and improve the pod's performance and efficiency, ensuring optimal user comfort and safety.
 
@@ -71,12 +71,25 @@ The concept of a soundproof pod comes with various potential areas of measuremen
 
 ## Air quality
 
-**Carbon dioxide (CO2):** Measuring CO2 can be a way to detect if someone is in the pod, as well as a way to know if further ventilation is needed
+- **CO2**: Measuring Carbon dioxide can be a way to detect if someone is in the pod, as well as a way to know if further ventilation is needed
 
-**Particles (PM):** A common way to measure particles is to count them by size. PM2.5 and PM 10 are terms used to describe fine particles in the air we breathe. They refer to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers and 10 micrometers, respectively.  Measuring particles can be a way to monitor over all air quality, but also a way to indicate if someone smokes in the pod.
+- **eCO2**:
+eCO2: Stands for equivalent Carbon Dioxide, used in measurements for indoor air quality applications, and based primarily on the sensing of VOCs (Volatile Organic Compounds).
 
-**Volatile Organic compound (VOC):** A group of chemicals that evaporate easily at room temperature. They are produced by many household products such as paints, aerosols, and cleaners, as well as industrial processes. High levels of VOCs can have harmful effects on health and also contribute to air pollution.
+- **PM**: A common way to measure particles is to count them by size. PM2.5 and PM 10 are terms used to describe fine particles in the air we breathe. They refer to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers and 10 micrometers, respectively.  Measuring particles can be a way to monitor over all air quality, but also a way to indicate if someone smokes in the pod.
+
+- **VOC**: Volatile Organic compound is a group of chemicals that evaporate easily at room temperature. They are produced by many household products such as paints, aerosols, and cleaners, as well as industrial processes. High levels of VOCs can have harmful effects on health and also contribute to air pollution.
 There are air quality sensors available that offer a combination of ways to measure air Quality
+
+
+- **TVOC**: Total Volatile Organic Compounds refer to the total concentration of multiple airborne VOCs present in the environment at a given time.
+
+- **NOx**: It's the collective term for nitric oxide (NO) and nitrogen dioxide (NO2). They are harmful gases released by burning fuels and can cause respiratory problems and contribute to the formation of smog and acid rain.
+
+- **AQI**: Air Quality Index is a standard scale for reporting and forecasting about air quality. It helps people understand when to reduce outdoor activities if the air quality is unhealthy.
+
+- **VSCs**: Volatile Sulfur Compounds, a category of compounds with a low boiling point, often responsible for unpleasant odors. They can also impact air quality, especially indoors.
+
 
 | Sensor | Library | CO2 | eCO2 | PM1 | PM2.5 | PM10 | VOC | TVOC | NOx | AQI | VSCs |
 |-|-|-|-|-|-|-|-|-|-|-|-|
