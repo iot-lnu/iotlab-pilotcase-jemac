@@ -66,7 +66,6 @@ The concept of a soundproof pod comes with various potential areas of measuremen
 
 ## Air quality
 
-### Sensors
 **Carbon dioxide (CO2):** Measuring CO2 can be a way to detect if someone is in the pod, as well as a way to know if further ventilation is needed
 
 **Particles (PM):** A common way to measure particles is to count them by size. PM2.5 and PM 10 are terms used to describe fine particles in the air we breathe. They refer to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers and 10 micrometers, respectively.  Measuring particles can be a way to monitor over all air quality, but also a way to indicate if someone smokes in the pod.
@@ -83,6 +82,19 @@ There are air quality sensors available that offer a combination of ways to meas
 |[Cambridge CMOSSensors  - CCS811](https://www.sciosense.com/wp-content/uploads/documents/SC-001232-DS-3-CCS811B-Datasheet-Revision-2.pdf) | - | - | ✅ | - | - | - | - | ✅ | - | - | - | 
 |[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | - | - | - | - | - | ✅ | - | - | - | - | 
 |[Bosch - BME688](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/) | - | - | - | - | - | - | ✅ | - | - | - | ✅ | 
+
+## Motion
+
+|Sensor|Manufacturer|Technology| Range of detection |Sensitivity|Supply Voltage|
+|-|-|-|-|-|-|
+|4871|Adafruit Industries LLC|PIR|7 m|Adjustable|3 - 12|
+|5578|Adafruit Industries LLC |PIR|5 m|Adjustable|2.2 - 3.7|
+|D6T|Omron|MEMS|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
+
+
+
+
+
 
 
 | Value to be Measured | Suggested Sensor | Peripheral |
