@@ -74,9 +74,15 @@ The concept of a soundproof pod comes with various potential areas of measuremen
 **Volatile Organic compound (VOC):** A group of chemicals that evaporate easily at room temperature. They are produced by many household products such as paints, aerosols, and cleaners, as well as industrial processes. High levels of VOCs can have harmful effects on health and also contribute to air pollution.
 There are air quality sensors available that offer a combination of ways to measure air Quality
 
-| Sensor | Library | CO2 | PM2.5 | PM10 |VOC|
-|-|-|-|-|-|-|
-|SGP41-D-R4| 
+| Sensor | Library | CO2 | eCO2 | PM1 | PM2.5 | PM10 | VOC | TVOC | NOx | AQI | VSCs |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|[Sensirion - SGP41-D-R4](https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf)| - | - | - | - | - | - | ✅ | - | ✅ |-|- | 
+|[ScioSense - ENS160](https://www.mouser.com/datasheet/2/1081/SC_001224_DS_1_ENS160_Datasheet_Rev_0_95-2258311.pdf)| - | - | ✅ | - | - | - | - | ✅ | - | ✅ |- | 
+|[Adafruit - PMSA003I](https://www.mouser.com/datasheet/2/737/4505_PMSA003I_series_data_manual_English_V2_6-2490334.pdf) | - | - | - | ✅ | ✅ | ✅ | - | - | - | - | - | 
+|[Sensirion - SGP30/40](https://docs.rs-online.com/1956/A700000007055193.pdf) | - | - | ✅ | - | - | - | (✅) | ✅ | - | - | - | 
+|[Cambridge CMOSSensors  - CCS811](https://www.sciosense.com/wp-content/uploads/documents/SC-001232-DS-3-CCS811B-Datasheet-Revision-2.pdf) | - | - | ✅ | - | - | - | - | ✅ | - | - | - | 
+|[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | - | - | - | - | - | ✅ | - | - | - | - | 
+|[Bosch - BME688](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/) | - | - | - | - | - | - | ✅ | - | - | - | ✅ | 
 
 
 | Value to be Measured | Suggested Sensor | Peripheral |
