@@ -3,10 +3,15 @@ Jemac Sweden AB is a company based in Kalmar, Sweden. They provide services with
 
 # Table of contents
 * [iotlab-pilotcase-jemac](#iotlab-pilotcase-jemac)
+* [Table of contents](#table-of-contents)
 * [Values to measure](#values-to-measure)
    * [Internal Measurements:](#internal-measurements)
    * [External Measurements:](#external-measurements)
-
+* [Hardware suggestions](#hardware-suggestions)
+   * [Temperature and humidity](#temperature-and-humidity)
+   * [Air quality](#air-quality)
+   * [Motion](#motion)
+   
 # Values to measure
 The concept of a soundproof pod comes with various potential areas of measurement, both internally and externally. These values could be temperature, humidity, multi-faceted air quality, motion, sound, light and fire detection from within, alongside external temperature and sound. All such measurements pave the way to fully understand and improve the pod's performance and efficiency, ensuring optimal user comfort and safety.
 
