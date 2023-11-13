@@ -83,6 +83,7 @@ There are air quality sensors available that offer a combination of ways to meas
 |-|-|-|-|-|-|
 |4871|Adafruit Industries LLC|PIR|7 m|Adjustable|3 - 12|
 |5578|Adafruit Industries LLC |PIR|5 m|Adjustable|2.2 - 3.7|
+|D6T|Omron|MEMS|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
 
 
 
