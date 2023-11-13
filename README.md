@@ -57,6 +57,15 @@ The concept of a soundproof pod comes with various potential areas of measuremen
 
 # Hardware suggestions
 
+## Temperature and humidity
+| Sensor | Library | RH accuracy (%RH)| T accuracy (C)| RH range | temp range |Release year|Rating|
+|--------|---------|------------------|---------------|----------|------------|------------|------|
+|HDC3022-Q1|       |0.5               |0.1            |0-100     |-40-125     |            |Automotive|
+|HDC3022 |         |0.5               |0.1            |0-100     |-40-125     |            |Catalog|
+|HTU21D(F) |       |2                 |               |0-100     |-40-125     |            |Catalog|
+
+
+
 | Value to be Measured | Suggested Sensor | Peripheral |
 |----------------------|------------------|------------|
 | Internal Temperature |                  |            |
