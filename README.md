@@ -79,11 +79,21 @@ There are air quality sensors available that offer a combination of ways to meas
 
 ## Motion
 
+**Passive Infrared (PIR) Sensors:** These sensors detect body heat, and are commonly used in home security systems. They are passive because they don't emit energy; they simply detect it. Can have false triggers in the form of other heat sources.
+
+**Thermal:** Both the pyroelectric sensor (Often used in PIR) and non-contact MEMS thermal sensor can detect even the slightest amount of radiant energy from objects such as infrared radiation and convert them into temperature readings. However, unlike pyroelectric sensor that relies on motion detection, non-contact MEMS thermal sensor is able to detect the presence of stationary humans (or objects).
+
+**Ultrasonic Sensors:**  These sensors emit ultrasonic waves, and then measure the reflection off a moving object. They are commonly used in automated doors, light switches, or parking sensors in cars.
+
+
+
 |Sensor|Manufacturer|Technology| Range of detection |Sensitivity|Supply Voltage|
 |-|-|-|-|-|-|
 |4871|Adafruit Industries LLC|PIR|7 m|Adjustable|3 - 12|
 |5578|Adafruit Industries LLC |PIR|5 m|Adjustable|2.2 - 3.7|
-|D6T|Omron|MEMS|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
+|D6T|Omron|Thermal|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
+|ZRD09|Winsen|PIR|4 - 8|Adjustable|5 - 20|
+
 
 
 
