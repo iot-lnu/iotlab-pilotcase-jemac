@@ -113,12 +113,14 @@ There are air quality sensors available that offer a combination of ways to meas
 
 |Sensor|Technology| Range of detection (m)|Sensitivity|Supply (V)|
 |-|-|-|-|-|
-|[Adafruit - 4871](https://www.digikey.se/sv/products/detail/adafruit-industries-llc/4871/13922055?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMAX%20Shopping_Product_High%20Performers&utm_term=&productid=13922055&utm_content=&utm_id=go_cmp-19549529751_adg-_ad-__dev-c_ext-_prd-13922055_sig-Cj0KCQiAr8eqBhD3ARIsAIe-buO9Et8qW-ORiGeWR51faV9cbxzlUNJU7_sIyuduhqKkcgEZOPw_wikaAhTKEALw_wcB&gad_source=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buO9Et8qW-ORiGeWR51faV9cbxzlUNJU7_sIyuduhqKkcgEZOPw_wikaAhTKEALw_wcB)|PIR|7 m|Adjustable|3 - 12|
 |[Adafruit - 5578](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5006/5578_Web.pdf)|PIR|5 m|Adjustable|2.2 - 3.7|
+|[muRata - IRA-S410ST01](https://www.murata.com/~/media/webrenewal/products/sensor/infrared/ira/ira-s410st01-e.ashx?la=en)|PIR|||2-15|
+|[Zilog - ZRE200GE](https://www.zilog.com/docs/zmotion/PS0402.pdf)|PIR|||1 - 15|
 |[Omron - D6T](https://docs.rs-online.com/1ec1/0900766b8165dbfb.pdf)|Thermal|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
-|[DFRobot - URM37_V5.0](https://docs.rs-online.com/f172/A700000007238458.pdf)|Ultrasonic|0.2 - 0.8| Adjustable| 3.3 - 5.5|
-|[RAKwireless - RAK12007-0-WB-N](https://www.digikey.se/sv/products/detail/rakwireless-technology-limited/RAK12007-0-WB-N/18682765?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMAX%20Shopping_Product_High%20Performers&utm_term=&productid=18682765&utm_content=&utm_id=go_cmp-19549529751_adg-_ad-__dev-c_ext-_prd-18682765_sig-Cj0KCQiAr8eqBhD3ARIsAIe-buMKBvhvtK0gdI8_bjGvnFAtXVcnGYKlVKx1_P5Oa5dgBL_bOWSzAPQaAl-XEALw_wcB&gad_source=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buMKBvhvtK0gdI8_bjGvnFAtXVcnGYKlVKx1_P5Oa5dgBL_bOWSzAPQaAl-XEALw_wcB)|Ultrasonic|0.2 - 4 || 3 - 5.5|
 |[RSPRO - Barrel-Style Proximity Sensor](https://docs.rs-online.com/c0bf/0900766b816c0809.pdf)|Ultrasonic|0.2 - 4|
+|[muRata - MA40S4S](https://www.murata.com/en-us/products/productdata/8797589340190/MASPOPSE.pdf)|Ultrasonic (TRANS)||||
+|[muRata - MA40S4R](https://www.murata.com/en-us/products/productdata/8797589274654/MASPOPRE.pdf)|Ultrasonic (RCVR)||||
+
 
 
 
