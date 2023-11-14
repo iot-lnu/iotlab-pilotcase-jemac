@@ -125,7 +125,7 @@ There are air quality sensors available that offer a combination of ways to meas
 |[muRata - IRA-S410ST01](https://www.murata.com/~/media/webrenewal/products/sensor/infrared/ira/ira-s410st01-e.ashx?la=en)|PIR|||2-15|
 |[Zilog - ZRE200GE](https://www.zilog.com/docs/zmotion/PS0402.pdf)|PIR|||1 - 15|
 |[Omron - D6T](https://docs.rs-online.com/1ec1/0900766b8165dbfb.pdf)|Thermal|Viewing angle and distance will affect area of detection|Can give info about how many people| 4.5 - 5.5|
-|[RSPRO - Barrel-Style Proximity Sensor](https://docs.rs-online.com/c0bf/0900766b816c0809.pdf)|Ultrasonic|0.2 - 4|
+|[RSPRO - Barrel-Style Proximity Sensor](https://docs.rs-online.com/c0bf/0900766b816c0809.pdf)|Ultrasonic|0-0.3||? - 20|
 |[muRata - MA40S4S](https://www.murata.com/en-us/products/productdata/8797589340190/MASPOPSE.pdf)|Ultrasonic (TRANS)||||
 |[muRata - MA40S4R](https://www.murata.com/en-us/products/productdata/8797589274654/MASPOPRE.pdf)|Ultrasonic (RCVR)||||
 
