@@ -65,11 +65,19 @@ The concept of a soundproof pod comes with various potential areas of measuremen
 ## Temperature and humidity
 | Sensor | Library | RH accuracy (%RH)| T accuracy (C)| RH range | temp range |Release year|
 |--------|---------|------------------|---------------|----------|------------|------------|
-|HDC3022-Q1|       |0.5               |0.1            |0-100     |-40-125     |            |
-|HDC3022 |         |0.5               |0.1            |0-100     |-40-125     |            |
-|HTU21D(F) |       |2                 |               |0-100     |-40-125     |            |
+|[TI - HDC3022-Q1](https://www.ti.com/lit/ds/symlink/hdc3022-q1.pdf?ts=1699898725445&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FHDC3022-Q1%253FkeyMatch%253DHDC3022-Q1%2526tisearch%253Dsearch-everything%2526usecase%253DGPN-ALT)|    -   |±0.5               |±0.1            |0-100     |-40-125     |         -   |
+|TI - HDC3022 |      -   |±0.5               |±0.1            |0-100     |-40-125     |       -     |
+|[TI - HTU21D(F)](https://cdn-shop.adafruit.com/datasheets/1899_HTU21D.pdf) |    -   |±2                 |       -        |0-100     |-40-125     |       -     |
+|[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | ±3 | ±0.5 | 0-100 | -40-85 | - |
+| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
 
 ## Air quality
+
+Air quality can be measured in various ways, each representing different elements, compounds or conditions present in the environment. From gaseous compounds like CO2, NOx, and VOCs to solid particulates like PM2.5 and PM10, and even environmental conditions like temperature and humidity, each contributes to the overall quality of the air we breathe.
+
 
 - **CO2**: Measuring Carbon dioxide can be a way to detect if someone is in the pod, as well as a way to know if further ventilation is needed
 
@@ -98,7 +106,7 @@ There are air quality sensors available that offer a combination of ways to meas
 |[Adafruit - PMSA003I](https://www.mouser.com/datasheet/2/737/4505_PMSA003I_series_data_manual_English_V2_6-2490334.pdf) | - | - | - | ✅ | ✅ | ✅ | - | - | - | - | - | 
 |[Sensirion - SGP30/40](https://docs.rs-online.com/1956/A700000007055193.pdf) | - | - | ✅ | - | - | - | (✅) | ✅ | - | - | - | 
 |[Cambridge CMOSSensors  - CCS811](https://www.sciosense.com/wp-content/uploads/documents/SC-001232-DS-3-CCS811B-Datasheet-Revision-2.pdf) | - | - | ✅ | - | - | - | - | ✅ | - | - | - | 
-|[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | - | - | - | - | - | ✅ | - | - | - | - | 
+|[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | - | - | - | - | - | - | - | - | ✅ | - | 
 |[Bosch - BME688](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/) | - | - | - | - | - | - | ✅ | - | - | - | ✅ | 
 
 ## Motion
@@ -123,21 +131,3 @@ There are air quality sensors available that offer a combination of ways to meas
 
 
 
-
-
-
-
-
-
-
-| Value to be Measured | Suggested Sensor | Peripheral |
-|----------------------|------------------|------------|
-| Internal Temperature |                  |            |
-| Humidity             |                  |            |
-| Air Quality          |                  |            |
-| Motion               |                  |            |
-| Internal Sound       |                  |            |
-| Light Intensity      |                  |            |
-| Fire Detection       |                  |            |
-| External Sound       |                  |            |
-| External Temperature |                  |            |
