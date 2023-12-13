@@ -1,12 +1,12 @@
 # Hardware suggestions
 
 ## Temperature and humidity
-| Sensor | Library | RH accuracy (%RH)| T accuracy (C)| RH range | Temp range | Price |
+| Sensor | Library | RH accuracy (%RH)| T accuracy (C)| RH range | Temp range | Price (Depends on quantity)|
 |--------|---------|------------------|---------------|----------|------------|-------|
-|[TI - HDC3022-Q1](https://www.ti.com/lit/ds/symlink/hdc3022-q1.pdf?ts=1699898725445&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FHDC3022-Q1%253FkeyMatch%253DHDC3022-Q1%2526tisearch%253Dsearch-everything%2526usecase%253DGPN-ALT)|    -   |±0.5               |±0.1            |0-100     |-40-125     | $XX.XX |
-|TI - HDC3022 |      -   |±0.5               |±0.1            |0-100     |-40-125     | $XX.XX |
+|[TI - HDC3022-Q1](https://www.ti.com/lit/ds/symlink/hdc3022-q1.pdf?ts=1699898725445&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FHDC3022-Q1%253FkeyMatch%253DHDC3022-Q1%2526tisearch%253Dsearch-everything%2526usecase%253DGPN-ALT)|    -   |±0.5               |±0.1            |0-100     |-40-125     | $3.779 (1-99) - 2.054 (1000+)|
+|[TI - HDC3022 ](https://www.ti.com/lit/ds/symlink/hdc3022.pdf?ts=1702454356057&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FHDC3022)|      -   |±0.5               |±0.1            |0-100     |-40-125     | $3.737 (1-99) - 1.850 (1000+)|
 |[TI - HTU21D(F)](https://cdn-shop.adafruit.com/datasheets/1899_HTU21D.pdf) |    -   |±2                 |       -        |0-100     |-40-125     | $XX.XX |
-|[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | ±3 | ±0.5 | 0-100 | -40-85 | $XX.XX |
+|[Bosch - BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/) | - | ±3 | ±0.5 | 0-100 | -40-85 | $10.71 (1-10) - 5.91(2500+) |
 
 
 ## Air quality
