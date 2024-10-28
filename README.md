@@ -2,6 +2,11 @@
 
 Jemac Sweden AB is a company based in Kalmar, Sweden. They provide services within development, production, and management. They work with a broad spectrum of commissions for different types of customers and have an extensive network of partners. They also offer products and services that connect you to your things. They can design, set up, and manage the implementation of your complete system including hardware, software, connectivity, cloud services, and user interface. They also develop and design user-friendly apps to control and monitor your things from any type of device.
 
+# Summary video 
+
+[<img src="https://img.youtube.com/vi/m71JPuIqCsU/hqdefault.jpg" width="60%"  
+/>](https://youtu.be/m71JPuIqCsU)
+
 # Table of contents
 
 - [iotlab-pilotcase-jemac](#iotlab-pilotcase-jemac)
